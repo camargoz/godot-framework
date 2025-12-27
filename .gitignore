@@ -4,4 +4,19 @@ demo/*
 #ignoring build files
 __pycache__/*
 framework/gen/*
-.sconsign.dblite
+*.o
+*.os
+*.so
+*.obj
+*.bc
+*.pyc
+*.dblite
+*.pdb
+*.lib
+bin
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
+*.idb
